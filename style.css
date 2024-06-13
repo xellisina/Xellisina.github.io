@@ -7,4 +7,10 @@ body {
   font-style: italic;
 }
 
+div {
+   background-color: #FFC0CB; 
+   color: #333; 
+   font-size: 30px;
+   font-style: italic;
+}
 
